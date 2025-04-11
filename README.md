@@ -7,14 +7,14 @@ The first screen is the login page. After entering credentials and clicking the 
 I implemeted code to BiometricActivity there is no UI to see.
 
 Setup Instructions:-
-Download project and open project in android studio.
+do clone or download the zip file and extract the project and open project in android studio.
 
 APK build instructions:-
 
 Click on Build
 Click on Generate Signed App Bundle or APK
 Click on APK
-Create KeyStore and click on next
+KeyStore and click on next
 Click on Release
 Now apk will generate 
 
